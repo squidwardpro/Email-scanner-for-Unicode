@@ -19,6 +19,8 @@ Scan any email that contains links from an external sender. Make it part of your
 5. Click **Text Email**.
 6. Review the scan results.
 
+* if you have access to a browser agent, this is a perfect time to use it 
+
 If the scan is clean, you're good. If anything is flagged, don't click the link — forward the email to the security team.
 
 ## What It Detects
