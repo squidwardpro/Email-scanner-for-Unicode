@@ -12,7 +12,7 @@ Scan any email that contains links from an external sender. Make it part of your
 
 ## How to Use It
 
-1. Open your inbox and grab the most recent email.
+1. Open your inbox(gmail) and grab the most recent email.
 2. Copy the full email body.
 3. Go to [https://squidward.pro](https://squidward.pro).
 4. Paste the email content into the input field.
